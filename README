@@ -1,0 +1,10 @@
+simple javascript libraries by oosamanet@gmail.com
+
+*bitstream.js
+read/write bit stream
+
+*fish.js
+encode/decode plain text into "fish" code
+
+*image2datauri.js
+load image file from url to convert datauri string
